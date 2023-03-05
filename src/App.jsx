@@ -389,7 +389,7 @@ function App() {
             <div class="flex flex-col border-l border-t border-r border-b border-purple-500 rounded-lg space-y-5 p-3 bg-neutral-900">
               <div class="text-white">MW19 AIO</div>
               <a
-                href="https://mega.nz/file/FjBDHTzA#Fzyt1onJ5rJ1Rag0_RexSy5YckOK4w-f29vMRuIUb_o"
+                href="https://mega.nz/file/YugkxYCB#NZc7OFU2g3OcG8fSTA6KhemewjbWtIYGn2W9V934DhQ"
                 target="_blank"
                 class="text-purple-500 bold"
               >
